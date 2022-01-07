@@ -1,0 +1,14 @@
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\obj\Debug\netcoreapp3.1\DoubleLinear.csproj.AssemblyReference.cache
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\obj\Debug\netcoreapp3.1\DoubleLinear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\obj\Debug\netcoreapp3.1\DoubleLinear.AssemblyInfoInputs.cache
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\obj\Debug\netcoreapp3.1\DoubleLinear.AssemblyInfo.cs
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\obj\Debug\netcoreapp3.1\DoubleLinear.csproj.CoreCompileInputs.cache
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\bin\Debug\netcoreapp3.1\DoubleLinear.exe
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\bin\Debug\netcoreapp3.1\DoubleLinear.deps.json
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\bin\Debug\netcoreapp3.1\DoubleLinear.runtimeconfig.json
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\bin\Debug\netcoreapp3.1\DoubleLinear.runtimeconfig.dev.json
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\bin\Debug\netcoreapp3.1\DoubleLinear.dll
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\bin\Debug\netcoreapp3.1\DoubleLinear.pdb
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\obj\Debug\netcoreapp3.1\DoubleLinear.dll
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\obj\Debug\netcoreapp3.1\DoubleLinear.pdb
+C:\Users\raddu\source\repos\DoubleLinear\DoubleLinear\obj\Debug\netcoreapp3.1\DoubleLinear.genruntimeconfig.cache
